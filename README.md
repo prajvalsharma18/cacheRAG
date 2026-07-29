@@ -1,6 +1,6 @@
 CacheRAG 
 
-Intelligent caching layer for RAG applications that reduces LLM latency, token usage, and unnecessary AI generation costs.
+Efficient caching layer for RAG applications that reduces LLM latency, token usage, and unnecessary AI generation costs.
 
 CacheRAG is a performance optimization layer built on top of Retrieval-Augmented Generation (RAG) systems. 
 
