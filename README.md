@@ -59,10 +59,7 @@ Cache Response
 
 Tested on 100 queries
 
-Metric	       Standard RAG    	CacheRAG	 Improvement
-Average Latency	     564.8 ms	   187.68 ms	66.7% faster
-Total Tokens Used	    58,920	      3,394	     94.2% reduction
-Average Tokens / Query	589.2	      33.94	    94.2% reduction
+Performance Comparison: Standard RAG — 564.8 ms avg latency, 58,920 total tokens (589.2/query) | CacheRAG — 187.68 ms avg latency, 3,394 total tokens (33.94/query) → 66.7% faster response time and 94.2% token reduction.
 
 
 
